@@ -22,7 +22,7 @@ hi, i'm Murali, a passionate self-taught full stack web developer and a freelanc
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://ik.imagekit.io/oe4zrcmwdi5/ezgif.com-gif-maker__1__gCDYBDZE-.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://ik.imagekit.io/oe4zrcmwdi5/ezgif.com-gif-maker__2___v58UXldc.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:muralicse97@icloud.com) :)
 - 💬 ask me about anything, i am happy to help;
