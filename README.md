@@ -44,11 +44,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-FLUTTER         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
-ANDROID         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
+FLUTTER         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜ 90%
+ANDROID         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ 50%
 HTML            ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
 CSS             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
-JAVASCRIPT      ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
+JAVASCRIPT      ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 80%
 PHP             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
 CODEIGNITER     ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
 MYSQL           ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ 70%
