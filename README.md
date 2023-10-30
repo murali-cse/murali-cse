@@ -1,10 +1,6 @@
 
   ### hey there 👋
 
-<a href="https://twitter.com/murali_cse">
-  <img align="left" alt="Murali | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=murali-cse.murali-cse)
 
 <br />
